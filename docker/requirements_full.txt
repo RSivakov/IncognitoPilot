@@ -124,7 +124,7 @@ tornado==6.3.2
 tqdm==4.64.0
 trimesh==3.9.29
 tzlocal==5.0.1
-urllib3==1.25.8
+urllib3==1.26.17
 weasyprint==53.3
 wordcloud==1.8.1
 xgboost==1.4.2
